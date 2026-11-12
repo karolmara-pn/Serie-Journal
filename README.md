@@ -126,3 +126,10 @@ Não foi configurada uma suíte de testes automatizados nesta fase.
 O projeto Serie Journal foi desenvolvido para colocar em prática os conceitos fundamentais de React, incluindo componentização, propriedades (props), gerenciamento de estado, formulários, validação de dados e navegação entre páginas.
 
 A aplicação atende às funcionalidades propostas para a primeira fase do projeto.
+
+
+## Repositório do projeto
+
+O código-fonte completo do projeto também está disponível no GitHub:
+
+https://github.com/karolmara-pn/Serie-Journal.git
